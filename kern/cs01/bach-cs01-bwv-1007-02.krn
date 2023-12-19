@@ -87,6 +87,7 @@
 16F#
 16G)
 16AJJ
+!!LO:TX:a:bi:t=(tr)
 8.D#L
 16cJ
 16BLL
@@ -163,20 +164,20 @@
 16E
 16GG)
 16EJJ
-16cLL
+16c#LL
 16A
 16B
 16dJJ
-16cLL
+16c#LL
 16A
 16d
 16BJJ
-16cLL
+16c#LL
 16A
 16e
 16GJJ
 =11
-8.F#L
+8.F#tL
 16dJ
 (16ALL
 16G)
@@ -191,7 +192,7 @@
 16A
 16CnJJ
 =12
-8.BBL
+8.BBtL
 16GJ
 (16DLL
 16C)
@@ -234,7 +235,7 @@
 16F#
 16A)
 16cnJJ
-8.BL
+8.BtL
 16AJ
 =15
 *^
@@ -271,15 +272,15 @@
 16A/
 =17
 *^
-[4D\	[4A/
+[<4D\	[>4A/
 16D\]	16A/]LL
 16ryy	16F#
 16ryy	16G
 16ryy	16AJJ
 *v	*v
-16D/LL
+(>16D/LL
 16E
-16F#
+16F#)
 16GJJ
 16A/LL
 16F#
@@ -303,13 +304,13 @@
 16F)
 16dJJ
 =19
-8EL
+8ETL
 16qqD
 8CJ
 16cLL
 16AA
 16BB
-16cJJ
+16CJJ
 16DD/LL
 16c\
 16B
@@ -319,7 +320,7 @@
 16c
 16AJJ
 =20
-8G#L
+8G#tL
 8EJ
 16BLL
 16D
@@ -328,7 +329,7 @@
 16CLL
 16E
 16F#
-16G#JJ
+16G#XJJ
 16ALL
 (16c
 16B
@@ -341,7 +342,7 @@
 16E
 16Fn)
 16AAJJ
-8.GG#L
+8.GG#tL
 16EJ
 16BLL
 16d
@@ -362,7 +363,7 @@
 16D
 16B-
 16AJJ
-(16BLL
+(16B-LL
 16c
 16d)
 16AJJ
@@ -380,6 +381,7 @@
 16A
 16BJJ
 *^
+!!LO:TX:a:bi:t=(tr)
 4E\	8.B/L
 .	16AJ
 =24	=24
@@ -461,9 +463,9 @@
 16BB
 16AAJJ
 =29
-16GGLL
+(16GGLL
 16D
-16F#
+16F#)
 16AJJ
 16cLL
 16A
@@ -512,7 +514,7 @@
 16G
 16F#JJ
 =32
-16GLL
+16G\LL
 16GG
 16BB
 16DJJ
@@ -527,5 +529,7 @@
 8.GG
 =:|
 *-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
 !!!ENC: Bryan Jacob Bell
-!!!END: 18 December 2023
+!!!END: 19 December 2023
